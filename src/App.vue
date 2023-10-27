@@ -1,5 +1,6 @@
 <template>
  <div>
+  hi
   <GameView>
 
   </GameView>
